@@ -1,5 +1,0 @@
-mapa = fm.Map(location=[-15.79371, -47.88141], zoom_start=10.5,
-              min_zoom=12, max_zoom=18,
-              tiles='https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
-              attr='Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid,'
-                   ' IGN, IGP, UPR-EGP, and the GIS User Community')

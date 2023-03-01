@@ -1,4 +1,0 @@
-cartoDB = fm.Map(location=[-15.79371, -47.88141],
-                 tiles='https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png',
-                 attr='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; '
-                      '<a href="https://carto.com/attributions">CARTO</a>')
